@@ -4,7 +4,7 @@ A fun and simple **Node.js + Express** web app that generates random and creativ
 Built using **EJS**, **Express**, and **Body-Parser**, this project is perfect for beginners learning dynamic web rendering with Node.js.  
 
 Features  
-- Generates a new random band name every time you hit submit 🎸  
+- Generates a new random band name every time you hit submit 
 - Uses **arrays of adjectives** and **nouns** to form creative name combinations  
 - Built using **Express.js** with **EJS templates** for rendering results  
 - Fully responsive and lightweight web app  
