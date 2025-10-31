@@ -23,7 +23,7 @@ Run Locally
 
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/RekhaBiju/band-name-generator.git
+   git clone https://github.com/RekhaBiju/Band-generator.git
 2. Navigate into the folder: cd band-name-generator
 3. Install dependencies: npm install
 4. Run the app: node index.js
