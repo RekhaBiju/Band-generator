@@ -1,4 +1,3 @@
-Band Name Generator Website 
 
 A fun and simple **Node.js + Express** web app that generates random and creative **band names** every time you submit!  
 Built using **EJS**, **Express**, and **Body-Parser**, this project is perfect for beginners learning dynamic web rendering with Node.js.  
@@ -24,7 +23,7 @@ Run Locally
 1. **Clone this repository:**  
    ```bash
    git clone https://github.com/RekhaBiju/Band-generator.git
-2. Navigate into the folder: cd band-name-generator
+2. Navigate into the folder: cd Band-generator
 3. Install dependencies: npm install
 4. Run the app: node index.js
 5. Open your browser and visit: http://localhost:3000
